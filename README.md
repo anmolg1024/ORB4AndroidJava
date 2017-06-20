@@ -6,3 +6,6 @@ This project is aimed mainly at realizing VIO (Visual Inertial Odometry) on Andr
 
 Part inspiration has been derived from this link:
 https://github.com/castoryan/ORB-SLAM-Android 
+The main source of the the method is open-sourced and has been made available by its author at these links:
+1. https://github.com/raulmur/ORB_SLAM
+2. https://github.com/raulmur/ORB_SLAM2

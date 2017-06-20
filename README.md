@@ -2,7 +2,7 @@
 This is the working directory of my summer research project at University of Wisconsin, Madison.
 The initial two weeks consisted of getting more familiar with Android Studio and researching on the various SLAM methods available, to finally decide on one to use for the project - one that would work on all commodity Android smartphones
 
-This project is aimed mainly at realizing VIO (Visual Inertial Odometry) on Android.
+This project is aimed primarily at realizing VIO (Visual Inertial Odometry) on Android.
 
 Part inspiration has been derived from this link:
 https://github.com/castoryan/ORB-SLAM-Android 

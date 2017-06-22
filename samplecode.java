@@ -15,6 +15,7 @@ import april.lcmtypes.pose_t;
 public class Odometry 
 { 
     private static final Log logger = LogFactory.getLog(Odometry.class); 
+ ging.LogFactory; 
  
     private final double encoderRate; 
  
@@ -32,7 +33,8 @@ public class Odometry
             pose_t pose) 
     { 
         if (logger.isTraceEnabled()) 
-        { 
+        { ging.LogFactory; 
+ 
             logger.trace("delta left  ticks: " 
                     + (newOdom.getLeft() - oldOdom.getLeft())); 
             logger.trace("delta right ticks: " 
